@@ -9,3 +9,5 @@ In this real-time pothole detection project, I developed an advanced system usin
 
 ### Train Model
 - python train.py
+
+## Inference
