@@ -7,7 +7,13 @@ In this real-time pothole detection project, I developed an advanced system usin
 - conda env create -f environment.yml<br>
 - conda activate venv
 
+### Train Argument:
+- imgsz=1280
+- epochs=50
+- batch=16
+
 ### Train Model:
 - python train.py
 
 ## Inference
+- python predict.py
