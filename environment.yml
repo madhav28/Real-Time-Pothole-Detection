@@ -1,0 +1,4 @@
+name: venv
+channels:
+  - defaults
+prefix: /mnt/scratch/lellaom/anaconda3/envs/venv
